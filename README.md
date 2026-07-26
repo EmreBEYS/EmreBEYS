@@ -1,87 +1,111 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Yunus Emre Kul
+<h1 align="center">Hi 👋, I'm Yunus Emre Kul</h1>
 
-### 🎓 Computer Engineering Student
-### 💼 IT Support Specialist (Part-Time)
-### ☕ Java Backend Developer
-### 🗄️ Database Systems Enthusiast
+<h3 align="center">
+Computer Engineering Student • Part-Time IT Support Specialist • Java Backend Developer
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-I am a 4th-year Computer Engineering student at İnönü University, Türkiye.
-
-Currently, I work as a **Part-Time IT Support Specialist**, where I provide technical support, troubleshoot hardware and software issues, maintain computer systems, and assist users with everyday IT operations.
-
-Outside of work, I focus on designing and developing software projects from scratch. My primary interests include Java backend development, database systems, software architecture, and data structures.
-
-I enjoy learning by building real-world projects that strengthen both my programming skills and software engineering knowledge.
+<p align="center">
+I enjoy building database systems, backend applications and educational software projects from scratch.
+</p>
 
 ---
 
-## 💼 Professional Experience
+# 👨‍💻 About Me
 
-### 🖥️ IT Support Specialist (Part-Time)
+🎓 4th Year Computer Engineering Student at **İnönü University**
 
-**Responsibilities**
+💼 Working as a **Part-Time IT Support Specialist**
 
-- Providing technical support to users
-- Installing and configuring Windows operating systems
-- Diagnosing hardware and software problems
-- Computer maintenance and troubleshooting
-- Peripheral device installation and support
-- Basic network troubleshooting
-- Office IT support
-- System monitoring and maintenance
+☕ Passionate about **Java Backend Development**
+
+🗄️ Building my own **Database Management System (YEKDB)**
+
+📚 Developing educational **Java Data Structures** projects
+
+🌱 Currently learning
+
+- Spring Boot
+- Docker
+- Kubernetes
+- System Design
+- Database Internals
 
 ---
 
-## 🚀 Current Projects
+# 💼 Professional Experience
 
-### 🗄️ YEKDB
+## 🖥️ Part-Time IT Support Specialist
 
-Developing a database management system completely from scratch using Java.
+Responsibilities
 
-Current Modules
+- Technical Support
+- Hardware Maintenance
+- Software Troubleshooting
+- Windows Installation & Configuration
+- Office IT Support
+- Computer Maintenance
+- Basic Network Troubleshooting
+- User Assistance
+
+---
+
+# 🚀 Featured Projects
+
+## 🗄️ YEKDB
+
+A Database Management System developed completely from scratch using Java.
+
+Current modules
 
 - Configuration Manager
-- Logging System
 - Storage Engine
+- Logging System
 - Page Architecture
 - Record Management
 - File Management
 
 ---
 
-### 📚 Java Data Structures Visualizer
+## 📚 Java Data Structures Visualizer
 
-A complete educational project including
+Educational implementations of fundamental data structures.
 
-- Array
-- ArrayList
-- Linked List
-- Circular Linked List
-- Skip List
-- Unrolled Linked List
-- JUnit Tests
-- Documentation
+✔ Array
+
+✔ ArrayList
+
+✔ Singly Linked List
+
+✔ Doubly Linked List
+
+✔ Circular Linked List
+
+✔ Skip List
+
+✔ Unrolled Linked List
+
+✔ JUnit Tests
+
+✔ Documentation
 
 ---
 
-### 🌐 Personal Portfolio Platform
+## 🌐 Personal Portfolio Platform
 
-Modern portfolio and educational platform featuring
+Modern portfolio and course management platform.
 
-- Admin Panel
+Features
+
+- Authentication
+- Admin Dashboard
 - Membership System
 - CMS
-- Authentication
 - Premium Course Management
 - Responsive Design
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -118,37 +142,34 @@ Modern portfolio and educational platform featuring
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Spring Boot
 - Docker
 - Kubernetes
+- Software Architecture
+- Database Systems
 - System Design
-- Database Internals
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Release YEKDB v1.0
-- Complete Java Data Structures Visualizer
-- Learn Spring Boot
-- Learn Docker
-- Learn Kubernetes
-- Contribute to Open Source Projects
-
----
-
-## 📈 GitHub Statistics
-
-(GitHub Stats Cards)
+- ✅ Release YEKDB v1.0
+- ✅ Complete Java Data Structures Visualizer
+- 🚀 Learn Spring Boot
+- 🚀 Learn Docker
+- 🚀 Learn Kubernetes
+- 🚀 Contribute to Open Source
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-GitHub:
+GitHub
+
 https://github.com/EmreBEYS
 
-Portfolio:
+Portfolio
+
 https://emrebeys.github.io

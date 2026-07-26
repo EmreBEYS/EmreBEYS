@@ -1,23 +1,36 @@
 # Hi there 👋 I'm Yunus Emre Kul
 
-### Computer Engineering Student | Java Backend Developer | Database Systems Enthusiast
+### Computer Engineering Student | IT Specialist | Java Backend Developer | Database Systems Enthusiast
 
 I am a 4th-year Computer Engineering student at İnönü University, Türkiye.
 
-I enjoy developing software from scratch, especially database systems,
-data structures, backend applications and educational software projects.
+Currently, I work as an **IT Specialist** while continuing my university education. My daily responsibilities include providing technical support, troubleshooting hardware and software issues, maintaining computer systems, and assisting users with IT-related operations.
 
-Currently I am focusing on building large-scale Java projects while improving
-my software architecture and system design skills.
+Alongside my professional work, I enjoy building software from scratch, especially database systems, backend applications, data structures, and educational software projects.
+
+My goal is to become a software engineer specializing in backend development, database technologies, and large-scale system architecture.
+
+---
+
+## 💼 Professional Experience
+
+### 🖥️ IT Specialist
+
+- Hardware & Software Support
+- Windows Installation & Maintenance
+- Computer Troubleshooting
+- Network & Peripheral Support
+- User Technical Support
+- System Maintenance
+- Office IT Operations
 
 ---
 
 ## 🚀 Current Projects
 
 ### 🗄️ YEKDB
-A database management system developed completely from scratch using Java.
 
-Features
+A database management system developed completely from scratch using Java.
 
 - Configuration Manager
 - Storage Engine
@@ -38,6 +51,8 @@ Educational Java implementations of fundamental data structures.
 
 ✔ Linked Lists
 
+✔ Circular Linked Lists
+
 ✔ Skip List
 
 ✔ Unrolled Linked List
@@ -54,59 +69,67 @@ Modern portfolio and course management platform.
 
 Features
 
-- Admin Panel
-- Membership System
-- Premium Courses
-- CMS
 - Authentication
-- Responsive Design
+- Admin Dashboard
+- Membership System
+- CMS
+- Premium Courses
+- Responsive UI
 
 ---
 
-## 💻 Technologies
+## 💻 Tech Stack
 
-Java
+### Languages
 
-PostgreSQL
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-Git
+### Backend
 
-GitHub
+- Java
+- Maven
+- JUnit
 
-Maven
+### Database
 
-JUnit
+- PostgreSQL
+- Database Design
+- SQL
 
-HTML
+### Tools
 
-CSS
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
 
-JavaScript
+### Operating Systems
 
-Node.js
-
-IntelliJ IDEA
-
-VS Code
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreBEYS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBEYS&layout=compact&theme=tokyonight)
+- Windows
+- Linux
+- macOS
 
 ---
 
 ## 🎯 2026 Goals
 
-- Finish YEKDB v1.0
-- Complete Java Data Structures Visualizer
-- Learn Spring Boot
-- Learn Docker
-- Learn Kubernetes
-- Improve System Design skills
+- ✅ Complete YEKDB v1.0
+- ✅ Complete Java Data Structures Visualizer
+- 🔄 Learn Spring Boot
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Improve System Design
+- 🔄 Contribute to Open Source
+
+---
+
+## 📈 GitHub Stats
+
+(Stats Cards)
 
 ---
 

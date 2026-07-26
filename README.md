@@ -1,28 +1,38 @@
-# Hi there 👋 I'm Yunus Emre Kul
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Yunus Emre Kul
 
-### Computer Engineering Student | IT Specialist | Java Backend Developer | Database Systems Enthusiast
+### 🎓 Computer Engineering Student
+### 💼 IT Support Specialist (Part-Time)
+### ☕ Java Backend Developer
+### 🗄️ Database Systems Enthusiast
+
+---
+
+## 👨‍💻 About Me
 
 I am a 4th-year Computer Engineering student at İnönü University, Türkiye.
 
-Currently, I work as an **IT Specialist** while continuing my university education. My daily responsibilities include providing technical support, troubleshooting hardware and software issues, maintaining computer systems, and assisting users with IT-related operations.
+Currently, I work as a **Part-Time IT Support Specialist**, where I provide technical support, troubleshoot hardware and software issues, maintain computer systems, and assist users with everyday IT operations.
 
-Alongside my professional work, I enjoy building software from scratch, especially database systems, backend applications, data structures, and educational software projects.
+Outside of work, I focus on designing and developing software projects from scratch. My primary interests include Java backend development, database systems, software architecture, and data structures.
 
-My goal is to become a software engineer specializing in backend development, database technologies, and large-scale system architecture.
+I enjoy learning by building real-world projects that strengthen both my programming skills and software engineering knowledge.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🖥️ IT Specialist
+### 🖥️ IT Support Specialist (Part-Time)
 
-- Hardware & Software Support
-- Windows Installation & Maintenance
-- Computer Troubleshooting
-- Network & Peripheral Support
-- User Technical Support
-- System Maintenance
-- Office IT Operations
+**Responsibilities**
+
+- Providing technical support to users
+- Installing and configuring Windows operating systems
+- Diagnosing hardware and software problems
+- Computer maintenance and troubleshooting
+- Peripheral device installation and support
+- Basic network troubleshooting
+- Office IT support
+- System monitoring and maintenance
 
 ---
 
@@ -30,63 +40,56 @@ My goal is to become a software engineer specializing in backend development, da
 
 ### 🗄️ YEKDB
 
-A database management system developed completely from scratch using Java.
+Developing a database management system completely from scratch using Java.
+
+Current Modules
 
 - Configuration Manager
-- Storage Engine
 - Logging System
+- Storage Engine
 - Page Architecture
 - Record Management
-- Cross Platform Architecture
+- File Management
 
 ---
 
 ### 📚 Java Data Structures Visualizer
 
-Educational Java implementations of fundamental data structures.
+A complete educational project including
 
-✔ Array
-
-✔ ArrayList
-
-✔ Linked Lists
-
-✔ Circular Linked Lists
-
-✔ Skip List
-
-✔ Unrolled Linked List
-
-✔ JUnit Testing
-
-✔ Documentation
+- Array
+- ArrayList
+- Linked List
+- Circular Linked List
+- Skip List
+- Unrolled Linked List
+- JUnit Tests
+- Documentation
 
 ---
 
 ### 🌐 Personal Portfolio Platform
 
-Modern portfolio and course management platform.
+Modern portfolio and educational platform featuring
 
-Features
-
-- Authentication
-- Admin Dashboard
+- Admin Panel
 - Membership System
 - CMS
-- Premium Courses
-- Responsive UI
+- Authentication
+- Premium Course Management
+- Responsive Design
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 - Java
+- SQL
 - JavaScript
 - HTML5
 - CSS3
-- SQL
 
 ### Backend
 
@@ -115,21 +118,30 @@ Features
 
 ---
 
-## 🎯 2026 Goals
+## 📚 Currently Learning
 
-- ✅ Complete YEKDB v1.0
-- ✅ Complete Java Data Structures Visualizer
-- 🔄 Learn Spring Boot
-- 🔄 Learn Docker
-- 🔄 Learn Kubernetes
-- 🔄 Improve System Design
-- 🔄 Contribute to Open Source
+- Spring Boot
+- Docker
+- Kubernetes
+- System Design
+- Database Internals
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 2026 Goals
 
-(Stats Cards)
+- Release YEKDB v1.0
+- Complete Java Data Structures Visualizer
+- Learn Spring Boot
+- Learn Docker
+- Learn Kubernetes
+- Contribute to Open Source Projects
+
+---
+
+## 📈 GitHub Statistics
+
+(GitHub Stats Cards)
 
 ---
 

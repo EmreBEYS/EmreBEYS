@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Merhaba, ben Yunus Emre KUL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:312e81,100:7c3aed&text=Yunus%20Emre%20KUL&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Java%20%E2%80%A2%20Backend%20%E2%80%A2%20Database%20Systems&descAlignY=58&animation=fadeIn" />
 
-### Computer Engineering Student • Java Developer • Backend & Database Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+YEKDB+from+scratch+in+Java;Backend+%26+Database+Systems;Software+Architecture+%26+System+Design;IT+%26+Computer+Hardware" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+YEKDB+from+scratch+in+Java;Backend+%26+Database+Systems;Software+Architecture+%26+System+Design;IT+%26+Computer+Hardware" alt="Typing SVG" />
 
 <br/>
 
@@ -22,25 +20,25 @@
 
 ---
 
-## 🧭 Hakkımda
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-🎓 **Computer Engineering Student**  
-🏫 İnönü Üniversitesi  
-☕ Java & Backend Development  
-🗄️ Database Management Systems  
-🖥️ IT, Hardware & Computer Systems  
-📍 Malatya, Türkiye  
+🎓 **Computer Engineering Student — İnönü University**  
+☕ **Java & Backend Development**  
+🗄️ **Database Management Systems**  
+🏗️ **Software Architecture & System Design**  
+🖥️ **IT, Hardware & Computer Systems**  
+📍 **Malatya, Türkiye**
 
-Ana odağım, sistemlerin yalnızca nasıl kullanıldığını değil **içeride nasıl çalıştığını** anlamak.
+I like building software to understand **how systems work internally**, not just how to use them.
 
-Şu anda en büyük projem olan **YEKDB** üzerinde çalışıyorum: Java ile sıfırdan geliştirilen eğitim amaçlı bir ilişkisel veritabanı yönetim sistemi.
+My main project is **YEKDB**, an educational relational database management system being developed from scratch in Java.
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ```java
 public class YunusEmreKul {
@@ -70,16 +68,13 @@ public class YunusEmreKul {
 
 <div align="center">
 
-### 💻 Languages
-
+### Languages
 <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js&theme=dark" />
 
-### 🗄️ Backend & Database
-
+### Backend & Database
 <img src="https://skillicons.dev/icons?i=postgres,maven,spring,flask&theme=dark" />
 
-### 🔧 Tools & Platforms
-
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,windows,apple&theme=dark" />
 
 </div>
@@ -88,90 +83,79 @@ public class YunusEmreKul {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🗄️ [YEKDB](https://github.com/EmreBEYS/YEKDB)
+<a href="https://github.com/EmreBEYS/YEKDB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=YEKDB&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/EmreBEYS/Java-Data-Structures-Visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=Java-Data-Structures-Visualizer&theme=tokyonight&hide_border=true" />
+</a>
 
-**Relational Database Management System built from scratch in Java.**
+<a href="https://github.com/EmreBEYS/Public-Transport-Decision-Support-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=Public-Transport-Decision-Support-System&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/EmreBEYS/AIProject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=AIProject&theme=tokyonight&hide_border=true" />
+</a>
 
-YEKDB, modern veritabanı sistemlerinin iç mimarisini anlamak amacıyla sıfırdan geliştirilen eğitim odaklı bir DBMS projesidir.
+</div>
 
-**Current Areas**
+### 🗄️ YEKDB — Main Project
 
-- ✅ Physical Storage Engine
-- ✅ Page Management
-- ✅ Record Management
-- ✅ Database Management
-- ✅ Table Management
-- ✅ Index Management
-- 🚧 Query Execution Engine
-- 🚧 SQL SELECT / WHERE
-- 🚧 CRUD Infrastructure
+> A relational database management system developed from scratch in Java.
 
-`Java 21` `Maven` `JUnit` `Database Internals`
+```text
+YEKDB
+├── Physical Storage Engine
+├── Page Management
+├── Record Management
+├── Database Management
+├── Table Management
+├── Index Management
+├── Query Execution
+├── SQL SELECT / WHERE
+└── Future
+    ├── Transactions
+    ├── Client / Server
+    └── Query Optimization
+```
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📚 [Java Data Structures Visualizer](https://github.com/EmreBEYS/Java-Data-Structures-Visualizer)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162?style=flat-square&logo=junit5&logoColor=white)
+![DBMS](https://img.shields.io/badge/Focus-Database%20Internals-7C3AED?style=flat-square)
 
-**Data structures implemented from scratch in Java.**
+</div>
 
-Veri yapılarını yalnızca kullanmak yerine, çalışma mantığını öğrenmek amacıyla sıfırdan implementasyon, test ve dokümantasyon odaklı geliştirilen proje.
+---
 
-**Implemented**
+## 📊 GitHub Analytics
 
-- ✅ Dynamic Array
-- ✅ Singly Linked List
-- ✅ Doubly Linked List
-- ✅ Circular Linked Lists
-- ✅ Skip List
-- ✅ Unrolled Linked List
-- ✅ JUnit Tests
-- ✅ Documentation
+<div align="center">
 
-`Java` `JUnit` `Algorithms` `Data Structures`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmreBEYS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBEYS&layout=compact&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td width="50%" valign="top">
+<img src="https://streak-stats.demolab.com?user=EmreBEYS&theme=tokyonight&hide_border=true" />
 
-### 🚌 [Public Transport Decision Support System](https://github.com/EmreBEYS/Public-Transport-Decision-Support-System)
+</div>
 
-Toplu taşıma operasyonlarında yolcu yoğunluğu ve araç hareketlerini değerlendirerek karar desteği sağlamayı amaçlayan simülasyon projesi.
+---
 
-**Focus**
+## 🐍 Contribution Activity
 
-- Passenger density
-- Dispatch decisions
-- Vehicle movement
-- Operational simulation
+<div align="center">
 
-`Python` `Simulation` `Decision Support`
+<img src="https://raw.githubusercontent.com/EmreBEYS/EmreBEYS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🤖 AI Traffic Sign Reader
-
-Trafik levhalarını yapay zekâ ile sınıflandırmayı ve web üzerinden sonuç sunmayı amaçlayan görüntü işleme projesi.
-
-**Focus**
-
-- Deep Learning
-- Image Classification
-- Flask Web Interface
-- Dataset Processing
-
-`Python` `Flask` `AI` `Computer Vision`
-
-</td>
-</tr>
-</table>
+> Snake görünmüyorsa `.github/workflows/snake.yml` dosyasını repoya ekleyip workflow'u bir kez çalıştır.
 
 ---
 
@@ -181,46 +165,14 @@ Trafik levhalarını yapay zekâ ile sınıflandırmayı ve web üzerinden sonu�
 
 | Area | Status |
 |---|---|
-| 🗄️ **YEKDB** | Active Development |
-| ☕ **Java** | Main Language |
-| ⚙️ **Backend Development** | Active Focus |
-| 🧠 **Database Internals** | Main Focus |
-| 🏗️ **Software Architecture** | Learning & Building |
-| 🖥️ **IT & Hardware** | Professional Experience |
+| 🗄️ **YEKDB** | 🚧 Active Development |
+| ☕ **Java** | ⭐ Main Language |
+| ⚙️ **Backend Development** | 🔥 Active Focus |
+| 🧠 **Database Internals** | ⭐ Main Focus |
+| 🏗️ **Software Architecture** | 📚 Learning & Building |
+| 🖥️ **IT & Hardware** | 🛠️ Practical Experience |
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EmreBEYS&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBEYS&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=EmreBEYS&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🧩 What I'm Building
-
-```text
-YEKDB
-├── Storage Engine
-├── Page Management
-├── Record Management
-├── Database Management
-├── Table Management
-├── Index Management
-├── Query Execution
-├── SQL Processing
-└── Future: Transactions / Client-Server / Optimization
-```
 
 ---
 
@@ -228,10 +180,20 @@ YEKDB
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-Exploring-7C3AED?style=flat-square)
-![Database Internals](https://img.shields.io/badge/Database%20Internals-Deep%20Dive-2563EB?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Next-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-Exploring-7C3AED?style=for-the-badge)
+![Database Internals](https://img.shields.io/badge/Database%20Internals-Deep%20Dive-2563EB?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Next-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 Beyond Code
+
+<div align="center">
+
+`Software` • `Databases` • `Backend` • `IT` • `Hardware` • `Gaming`
 
 </div>
 
@@ -255,6 +217,6 @@ YEKDB
 
 ### `Build • Break • Understand • Improve`
 
-<sub>Software • Databases • Backend • IT • Hardware</sub>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:312e81,100:0f172a" />

@@ -1,51 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre Kul</h1>
+# Hi 👋, I'm Yunus Emre KUL
 
-<h3 align="center">
-Computer Engineering Student • Part-Time IT Support Specialist • Java Backend Developer
-</h3>
+### Computer Engineering Student | Java Developer | Backend & Database Systems
 
-<p align="center">
-I enjoy building database systems, backend applications and educational software projects from scratch.
-</p>
+I build software to understand how systems work internally.
 
----
+My main focus areas are:
 
-# 👨‍💻 About Me
-
-🎓 4th Year Computer Engineering Student at **İnönü University**
-
-💼 Working as a **Part-Time IT Support Specialist**
-
-☕ Passionate about **Java Backend Development**
-
-🗄️ Building my own **Database Management System (YEKDB)**
-
-📚 Developing educational **Java Data Structures** projects
-
-🌱 Currently learning
-
-- Spring Boot
-- Docker
-- Kubernetes
-- System Design
-- Database Internals
-
----
-
-# 💼 Professional Experience
-
-## 🖥️ Part-Time IT Support Specialist
-
-Responsibilities
-
-- Technical Support
-- Hardware Maintenance
-- Software Troubleshooting
-- Windows Installation & Configuration
-- Office IT Support
-- Computer Maintenance
-- Basic Network Troubleshooting
-- User Assistance
+- ☕ Java & Backend Development
+- 🗄️ Database Management Systems
+- 🧠 Data Structures & Algorithms
+- 🏗️ Software Architecture
+- 🖥️ IT & Computer Systems
 
 ---
 
@@ -53,123 +18,108 @@ Responsibilities
 
 ## 🗄️ YEKDB
 
-A Database Management System developed completely from scratch using Java.
+A relational Database Management System developed from scratch in Java.
 
-Current modules
+YEKDB is an educational DBMS project focused on understanding and
+implementing the internal architecture of modern database systems.
 
-- Configuration Manager
-- Storage Engine
-- Logging System
-- Page Architecture
+### Current Architecture
+
+- Physical Storage Engine
+- Page Management
 - Record Management
-- File Management
+- Database Management
+- Table Management
+- Index Management
+- Query Execution Engine
+- SQL SELECT / WHERE Processing
+- CRUD Infrastructure
+
+**Tech:** Java 21 • Maven • JUnit • Git
+
+➡️ Repository: https://github.com/EmreBEYS/YEKDB
 
 ---
 
 ## 📚 Java Data Structures Visualizer
 
-Educational implementations of fundamental data structures.
+Data structures implemented from scratch in Java with tests,
+documentation and visualization-oriented architecture.
 
-✔ Array
+Implemented structures include:
 
-✔ ArrayList
+- Dynamic Array
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked Lists
+- Skip List
+- Unrolled Linked List
 
-✔ Singly Linked List
+**Tech:** Java • Maven • JUnit
 
-✔ Doubly Linked List
-
-✔ Circular Linked List
-
-✔ Skip List
-
-✔ Unrolled Linked List
-
-✔ JUnit Tests
-
-✔ Documentation
+➡️ Repository:
+https://github.com/EmreBEYS/Java-Data-Structures-Visualizer
 
 ---
 
-## 🌐 Personal Portfolio Platform
+## 🚌 Public Transport Decision Support System
 
-Modern portfolio and course management platform.
+A simulation and decision-support system designed for public
+transportation operations.
 
-Features
+The system evaluates factors such as passenger density and vehicle
+movement to support dispatch decisions.
 
-- Authentication
-- Admin Dashboard
-- Membership System
-- CMS
-- Premium Course Management
-- Responsive Design
+**Tech:** Python
+
+➡️ Repository:
+https://github.com/EmreBEYS/Public-Transport-Decision-Support-System
+
+---
+
+## 🚍 MOTAŞ Smart Dispatch System
+
+A web-oriented public transportation project focused on smart
+dispatching and transportation management concepts.
+
+➡️ Repository:
+https://github.com/EmreBEYS/MOTAS-Smart-Dispatch-System
 
 ---
 
 # 🛠️ Tech Stack
 
 ### Languages
+Java • SQL • Python • C++ • C# • JavaScript
 
-- Java
-- SQL
-- JavaScript
-- HTML5
-- CSS3
+### Backend & Database
+Java • Maven • JUnit • PostgreSQL • SQL • Flask
 
-### Backend
+### Development
+Git • GitHub • IntelliJ IDEA • VS Code
 
-- Java
-- Maven
-- JUnit
-
-### Database
-
-- PostgreSQL
-- Database Design
-- SQL
-
-### Tools
-
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-
-### Operating Systems
-
-- Windows
-- Linux
-- macOS
+### Systems
+Windows • Linux • macOS
 
 ---
 
-# 📚 Currently Learning
+# 📖 Currently Exploring
 
 - Spring Boot
-- Docker
-- Kubernetes
 - Software Architecture
-- Database Systems
+- Database Internals
 - System Design
+- Docker
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Focus
 
-- ✅ Release YEKDB v1.0
-- ✅ Complete Java Data Structures Visualizer
-- 🚀 Learn Spring Boot
-- 🚀 Learn Docker
-- 🚀 Learn Kubernetes
-- 🚀 Contribute to Open Source
+> Building **YEKDB** — a database management system from scratch in Java.
 
 ---
 
-# 📫 Contact
+# 📫 Links
 
-GitHub
-
-https://github.com/EmreBEYS
-
-Portfolio
-
-https://emrebeys.github.io
+🌐 Portfolio: https://emrebeys.github.io  
+💻 GitHub: https://github.com/EmreBEYS

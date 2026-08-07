@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:312e81,100:7c3aed&text=Yunus%20Emre%20KUL&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Java%20%E2%80%A2%20Backend%20%E2%80%A2%20Database%20Systems&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:312e81,100:7c3aed&text=Yunus%20Emre%20KUL&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Java%20%E2%80%A2%20Backend%20%E2%80%A2%20Database%20Systems&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+YEKDB+from+scratch+in+Java;Backend+%26+Database+Systems;Software+Architecture+%26+System+Design;IT+%26+Computer+Hardware" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+YEKDB+from+scratch+in+Java;Backend+%26+Database+Systems;Software+Architecture+%26+System+Design;IT+%26+Computer+Hardware" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 I like building software to understand **how systems work internally**, not just how to use them.
 
-My main project is **YEKDB**, an educational relational database management system being developed from scratch in Java.
+My main project is **YEKDB**, an educational relational database management system developed from scratch in Java.
 
 </td>
 <td width="48%" valign="top">
@@ -44,7 +44,6 @@ My main project is **YEKDB**, an educational relational database management syst
 public class YunusEmreKul {
 
     String role = "Computer Engineering Student";
-
     String mainLanguage = "Java";
     String mainProject = "YEKDB";
 
@@ -83,27 +82,88 @@ public class YunusEmreKul {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/EmreBEYS/YEKDB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=YEKDB&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/EmreBEYS/Java-Data-Structures-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=Java-Data-Structures-Visualizer&theme=tokyonight&hide_border=true" />
-</a>
+### 🗄️ [YEKDB](https://github.com/EmreBEYS/YEKDB)
 
-<a href="https://github.com/EmreBEYS/Public-Transport-Decision-Support-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=Public-Transport-Decision-Support-System&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/EmreBEYS/AIProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmreBEYS&repo=AIProject&theme=tokyonight&hide_border=true" />
-</a>
+Relational database management system developed **from scratch in Java**.
 
-</div>
+**Highlights**
 
-### 🗄️ YEKDB — Main Project
+- Physical Storage Engine
+- Page & Record Management
+- Database & Table Management
+- Index Management
+- Query Execution
+- SQL SELECT / WHERE
+- CRUD Infrastructure
 
-> A relational database management system developed from scratch in Java.
+`Java 21` `Maven` `JUnit` `DBMS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Java Data Structures Visualizer](https://github.com/EmreBEYS/Java-Data-Structures-Visualizer)
+
+Data structures implemented from scratch with tests and documentation.
+
+**Highlights**
+
+- Dynamic Array
+- Linked List Family
+- Skip List
+- Unrolled Linked List
+- JUnit Tests
+- Documentation
+
+`Java` `JUnit` `Algorithms`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 [Public Transport Decision Support System](https://github.com/EmreBEYS/Public-Transport-Decision-Support-System)
+
+Simulation and decision-support system focused on public transportation operations.
+
+**Focus**
+
+- Passenger Density
+- Dispatch Decisions
+- Vehicle Movement
+- Operational Simulation
+
+`Python` `Simulation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Traffic Sign Reader
+
+Traffic sign classification project with a web-based interface.
+
+**Focus**
+
+- Deep Learning
+- Image Classification
+- Flask
+- Dataset Processing
+
+`Python` `Flask` `AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ YEKDB — Main Project
+
+> Building a database system from scratch to understand modern DBMS architecture internally.
 
 ```text
 YEKDB
@@ -136,12 +196,12 @@ YEKDB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmreBEYS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBEYS&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmreBEYS&theme=tokyonight" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=EmreBEYS&theme=tokyonight&hide_border=true" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmreBEYS&theme=tokyonight" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmreBEYS&theme=tokyonight" />
 
 </div>
 
@@ -151,11 +211,13 @@ YEKDB
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmreBEYS/EmreBEYS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreBEYS/EmreBEYS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmreBEYS/EmreBEYS/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/EmreBEYS/EmreBEYS/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
-> Snake görünmüyorsa `.github/workflows/snake.yml` dosyasını repoya ekleyip workflow'u bir kez çalıştır.
 
 ---
 
@@ -219,4 +281,4 @@ YEKDB
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:312e81,100:0f172a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,50:312e81,100:0f172a" />

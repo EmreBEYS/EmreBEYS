@@ -192,18 +192,16 @@ YEKDB
 
 ---
 
-## 📊 Development Overview
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Main%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![YEKDB](https://img.shields.io/badge/YEKDB-Active%20Development-7C3AED?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Development-2563EB?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-Systems-312E81?style=for-the-badge)
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmreBEYS&theme=tokyonight" />
 
-<br/><br/>
+<br/>
 
-**Building systems from scratch, focusing on database internals, backend architecture and software design.**
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmreBEYS&theme=tokyonight" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmreBEYS&theme=tokyonight" />
 
 </div>
 
